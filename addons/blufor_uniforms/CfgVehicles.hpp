@@ -357,7 +357,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsMaterials[]=
 		{
-			"\A3\Characters_F\BLUFOR\Data\clothing1.rvmat"
+			"\A3\Characters_F_EXP\BLUFOR\Data\U_B_CTRG_Soldier_F.rvmat"
 		};
 	};
 	class tmtm_combatUniformC_sage: tmtm_combatUniformC_erdl	// VANILLA TEXTURE
