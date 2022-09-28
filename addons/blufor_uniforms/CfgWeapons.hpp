@@ -835,7 +835,7 @@ class CfgWeapons
 		};
 	};
 
-	class tmtm_u_survival_mcamB: U_B_survival_uniform
+	class tmtm_u_survival_aor2: U_B_survival_uniform
 	{
 		author="SkytechCEO";
 		scope=2;
